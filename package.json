@@ -2,6 +2,11 @@
     "name": "nw-demo",
     "main": "index.html",
     "dependencies": {
-        "jquery": "2.1.0"
+        "jquery": "2.1.0",
+        "dirwalker" : "0.0.4",
+        "ini" : "1.1.0",
+        "underscore": "1.6.0",
+        "dust": "0.3.0",
+        "requirejs": "2.1.11"
     }
 }
